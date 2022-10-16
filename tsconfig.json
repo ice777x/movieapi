@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "allowJs": true,
+        "skipLibCheck": true,
+        "strict": true,
+        "esModuleInterop": true,
+        "module": "CommonJS",
+        "moduleResolution": "node",
+        "resolveJsonModule": true,
+        "incremental": true,
+        "rootDir": "./src",
+        "outDir": "./dist", /* Specify an output folder for all emitted files. */
+        "forceConsistentCasingInFileNames": true
+    },
+}
